@@ -1,0 +1,8 @@
+django
+djangorestframework
+environs
+django-filter
+
+venv=api1venv
+username=APITutorial
+password=tutorialpassword
